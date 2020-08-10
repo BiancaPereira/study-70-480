@@ -21,7 +21,7 @@
 
 ## Minhas anotações
 
-> :pencil: **[Lista de tarefas detalhada](todo-topicos-detalhados.md)**
+> :pencil: **[Lista de tarefas detalhada](todo-detailed-topics.md)**
 
 1. HTML
 2. CSS
