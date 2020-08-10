@@ -21,6 +21,8 @@
 
 ## Minhas anotações
 
+> **[Lista de tarefas detalhada](todo-topicos-detalhados.md)**
+
 1. HTML
 2. CSS
 3. Javascript
@@ -41,7 +43,7 @@
 
 - (3) Aplique estilo em elementos HTML **(em andamento)**
   - Mude a localização de um elemento
-  - Aplique um tansform
+  - Aplique um transform
   - Show/hide de elementos
 
 - (4) Implemente APIs de HTML5 **(em andamento)**
@@ -56,7 +58,7 @@
 
 - (6) Crie e implemente objetos e métodos **(em andamento)**
   - Implemente objetos nativos
-  - Crie objetos e propriedades costumizadas para objetivos nativos usando protypes e funções
+  - Crie objetos e propriedades costumizadas para objetos  nativos usando prototypes e funções
   - Herança de um objeto
   - Implemente métodos nativos e crie métodos próprios
 
@@ -64,7 +66,7 @@
 
 - (7) Implemente fluxos de programa **(em andamento)**
   - Itere por coleções e itens de array
-  - Desições através de switch
+  - Decisões através de switch
   - If/then
   - Operators
   - Avalie expressões
